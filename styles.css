@@ -1,0 +1,6 @@
+.header {
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    width: 3028.593px;
+    height: 402.168px;
+    flex-shrink: 0;
+}
