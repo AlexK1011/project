@@ -76,7 +76,7 @@ body {
 .a7 {
     background-position: -330px 0px;
 }
-.a8 {
+#a8 {
     background-position: -385px 0px;
     margin-right: 0;
     width: 18.6%;
@@ -112,6 +112,8 @@ body {
 .a8:hover {
     background: url('images/messages1.png');
     background-size: cover;
+    margin-right: 0;
+    width: 18.6%;
 }
 .banner2 {
     top: 4.7%;
